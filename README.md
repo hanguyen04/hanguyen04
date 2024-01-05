@@ -2,11 +2,11 @@ Hey there 👋, I'm Ha
 
 I am a second-year Computer Science and Design student at Northeastern University. I am keenly interested in Full-Stack development, with expertise in Front-End. I also am proficient in Object-Oriented Programming and Algorithms.
 
-🛠️ LANGUAGES & TOOLS :
+🛠️ LANGUAGES & TOOLS : <br/>
 Java HTML5 CSS3 Typescript Javascript Python DrRacket
 ReactJs NextJs Prisma MySQL Figma Adobe Suite
 
-📖 CURRENTLY LEARNING!! :
+📖 CURRENTLY LEARNING!! : <br/>
 C++ 
 
 <!--
