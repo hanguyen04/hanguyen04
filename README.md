@@ -1,4 +1,13 @@
-### Hi there 👋
+Hey there 👋, I'm Ha
+
+I am a second-year Computer Science and Design student at Northeastern University. I am keenly interested in Full-Stack development, with expertise in Front-End. I also am proficient in Object-Oriented Programming and Algorithms.
+
+🛠️ LANGUAGES & TOOLS :
+Java HTML5 CSS3 Typescript Javascript Python DrRacket
+ReactJs NextJs Prisma MySQL Figma Adobe Suite
+
+📖 CURRENTLY LEARNING!! :
+C++ 
 
 <!--
 **hanguyen04/hanguyen04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
