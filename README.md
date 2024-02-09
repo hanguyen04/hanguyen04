@@ -1,7 +1,4 @@
-Hey there 👋, I'm Ha
-
-I am a second-year Computer Science and Design student at Northeastern University. I am keenly interested in Full-Stack development, with expertise in Front-End. I also am proficient in Object-Oriented Programming and Algorithms.
-
+Hey there!! 👋
 
 
 <!--
